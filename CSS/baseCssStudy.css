@@ -112,7 +112,7 @@ body{
  
  
  .theProcess li {
-    background: url('../../icons/arrow_right_light/Arrow_right_light.svg') no-repeat left top; /* <-- change `left` & `top` too for extra control */
+    background: url('/Images/icons/arrow_right_light/Arrow_right_light.svg') no-repeat left top; /* <-- change `left` & `top` too for extra control */
     margin: 0 0 0 2rem;
     padding: 2px 0px 3px 35px;
     /* reset styles (optional): */
