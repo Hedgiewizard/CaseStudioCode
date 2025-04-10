@@ -1,31 +1,4 @@
-/* Whole file */
-body{
-    margin: 0 80px;
-    color: #394648;
-    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    /* font-family:'Franklin Gothic Medium', sans-serif */
- }
- 
- 
- h1{
-    padding-top: 4.25rem;
-    color: #945D5E;
- }
- 
- 
  /* Header Css */
- header .opening h1{
-    padding: 0.25rem 0 0 1rem;
-    font-size: 3rem;
-    color: #394648;
- }
- 
- 
- header .opening p{
-    padding-left: 7%;
- }
- 
- 
  .problemStatement{
     align-items: center;
     text-align: center;
@@ -45,20 +18,6 @@ body{
  .problemStatement h1{
     padding-top: 2rem;
  }
- 
- 
- /* Main CSS */
- h2{
-    padding: 1.5rem 0 0 0;
-    color: #F4CBC6;
- }
- 
- 
- h3{
-    color: #EDD2E0;
-    margin: 0 0 0 0;
- }
- 
  
  /* Remember everything with a h3 header had this padding on the right and left */
  .objectivesBox{

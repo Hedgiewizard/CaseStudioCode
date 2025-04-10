@@ -1,0 +1,40 @@
+/* Whole file */
+body{
+    margin: 0 80px;
+    color: #394648;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family:'Franklin Gothic Medium', sans-serif */
+ }
+ 
+ /* Header Css */
+ header .opening h1{
+    padding: 0.25rem 0 0 1rem;
+    font-size: 3rem;
+    color: #394648;
+ }
+
+ h1{
+    padding-top: 4.25rem;
+    color: #945D5E;
+ }
+ 
+ header .opening p{
+    padding-left: 7%;
+ }
+ 
+ /* Main CSS */
+ h2{
+    padding: 1.5rem 0 0 0;
+    color: #F4CBC6;
+ }
+ 
+ 
+ h3{
+    color: #EDD2E0;
+    margin: 0 0 0 0;
+ }
+
+ /* Case Study Boxes */
+ .CaseStudyBoxes{
+    padding: 0 1% 0 1%;
+ }
