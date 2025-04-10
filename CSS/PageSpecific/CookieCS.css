@@ -1,0 +1,27 @@
+.sketchPage{
+    width: 23%;
+    padding: .5rem;
+ }
+ 
+ 
+ .screenCap{
+    padding: .5rem;
+ }
+ 
+ 
+ #computerScreenCap{
+    width: 49.5vw;
+    /* height: auto;
+    width: 25rem; */
+ }
+ 
+ 
+ #tabletScreenCap{
+    width: 24vw;
+ }
+ 
+ 
+ #mobileScreenCap{
+    width: 11vw;
+ }
+ 

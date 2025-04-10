@@ -1,0 +1,172 @@
+/* Whole file */
+body{
+    margin: 0 80px;
+    color: #394648;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* font-family:'Franklin Gothic Medium', sans-serif */
+ }
+ 
+ 
+ h1{
+    padding-top: 4.25rem;
+    color: #945D5E;
+ }
+ 
+ 
+ /* Header Css */
+ header .opening h1{
+    padding: 0.25rem 0 0 1rem;
+    font-size: 3rem;
+    color: #394648;
+ }
+ 
+ 
+ header .opening p{
+    padding-left: 7%;
+ }
+ 
+ 
+ .problemStatement{
+    align-items: center;
+    text-align: center;
+    outline: 1px solid #264030;
+    padding: 3% 3%;
+    margin: 4.5rem 25% 2rem 25%;
+    align-content: center;
+    width: 50%;
+ }
+ 
+ 
+ .problemStatement{
+    padding-top: 0;
+ }
+ 
+ 
+ .problemStatement h1{
+    padding-top: 2rem;
+ }
+ 
+ 
+ /* Main CSS */
+ h2{
+    padding: 1.5rem 0 0 0;
+    color: #F4CBC6;
+ }
+ 
+ 
+ h3{
+    color: #EDD2E0;
+    margin: 0 0 0 0;
+ }
+ 
+ 
+ /* Remember everything with a h3 header had this padding on the right and left */
+ .objectivesBox{
+    display: flex;
+    padding: 0 3.5rem;
+ }
+ 
+ 
+ .whatObjectives{
+    width: 70%;
+    padding-right: 3rem;
+ }
+ 
+ 
+ .whatObjectives p{
+    padding: 0 0 0 2rem;
+ }
+ 
+ 
+ 
+ 
+ .doClashObjectives{
+    width: 100%;
+ }
+ 
+ 
+ .theProcess h1{
+    text-align: center;
+ }
+ 
+ 
+ .processIcons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ 
+ 
+ .processIcon{
+    text-align: center;
+    padding: 1.5rem;
+ }
+ 
+ 
+ .icon{
+    height: 7rem;
+    width: auto;
+ }
+ 
+ 
+ .theProcess li {
+    background: url('../../icons/arrow_right_light/Arrow_right_light.svg') no-repeat left top; /* <-- change `left` & `top` too for extra control */
+    margin: 0 0 0 2rem;
+    padding: 2px 0px 3px 35px;
+    /* reset styles (optional): */
+    list-style: none;
+    margin: 0;
+  }
+ 
+ 
+ .whoUsers p{
+    margin: 0 0 0 2.5rem;
+ }
+ 
+ 
+ .featuresAndFunctionalities p{
+    margin: 0 0 0 2.5rem;
+ }
+ 
+ 
+ .competitorAnalysis p{
+    margin: 0 0 0 2.5rem;
+ }
+ 
+ 
+ .thoughts{
+    display: flex;
+    padding: 1rem 3.5rem;
+    margin: .5rem 0 0 0;
+ 
+ 
+ }
+ 
+ 
+ .thingsLiked{
+    padding-right: 3rem;
+ }
+ 
+ 
+ .thingsNotLiked{
+    width: 100%;
+ }
+ 
+ 
+ .sketches{
+    display: flex;
+    align-items: top;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ 
+ 
+ .screenCaps{
+    display: flex;
+    align-items: top;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ 
