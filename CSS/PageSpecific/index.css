@@ -1,0 +1,23 @@
+/* Case Study Boxes */
+.DesignCaseStudies, .CodeCaseStudies{
+    display: flex;
+}
+
+.CaseStudyBoxes{
+    padding: 0 1% 0 1%;
+ }
+
+ .DesignCaseStudy, .CodeCaseStudy{
+    width: 10rem;    
+ }
+
+ .boxWithText{
+    background-image: url("/Images/PlaceholderSketches/JustAGuy.jpg");
+    width: 20rem;
+    height: 20rem;
+    margin: 0 2rem;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    justify-items: center;
+ }
