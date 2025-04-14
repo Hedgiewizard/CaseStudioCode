@@ -1,14 +1,40 @@
+/* Case Study Home Page Header */
+.headerBox{
+    background-color: #fff2f8;
+    width: 50%;
+    display: contents;
+
+}
+
+#csHomePageHeader{
+    text-align: center;
+}
+
+#cs_hp_Title{
+    margin: 2rem 0 0 0;
+}
+
+#cs_hp_LastUpdated{
+    margin: 0 0 0 0;
+    size: 1.25rem;
+    color: #945D5E;
+}
+
 /* Case Study Boxes */
 .DesignCaseStudies, .CodeCaseStudies{
     display: flex;
+    justify-content: center;
 }
 
 .CaseStudyBoxes{
-    padding: 0 1% 0 1%;
+    padding: 3.5% 1% 0 1%;
  }
 
  .DesignCaseStudy, .CodeCaseStudy{
-    width: 10rem;    
+    width: 10rem;
+    color: #394648;  
+    text-decoration: none; 
+    font-size: 1.25rem;
  }
 
  .boxWithText{
@@ -21,3 +47,12 @@
     justify-content: center;
     justify-items: center;
  }
+
+ /* Links */
+ a::before{
+    color: #394648;
+}
+
+a::after{
+    color: #394648;
+}
