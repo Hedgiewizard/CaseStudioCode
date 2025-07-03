@@ -39,8 +39,9 @@
 
  .boxWithText{
     background-image: url("/Images/PlaceholderSketches/JustAGuy.jpg");
-    width: 20rem;
-    height: 20rem;
+    width: 12rem;
+    height: 12rem;
+    padding: 4rem;
     margin: 0 2rem;
     align-content: center;
     text-align: center;
