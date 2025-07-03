@@ -1,3 +1,8 @@
+ /* Whole Site CSS */
+ body{
+   background-color: #f0f0f0 ;
+ }
+ 
  /* Header Css */
  .problemStatement{
     align-items: center;
@@ -27,7 +32,7 @@
  
  
  .whatObjectives{
-    width: 70%;
+    width: 50%;
     padding-right: 3rem;
  }
  
@@ -36,18 +41,13 @@
     padding: 0 0 0 2rem;
  }
  
- 
- 
- 
  .doClashObjectives{
     width: 100%;
  }
  
- 
  .theProcess h1{
     text-align: center;
  }
- 
  
  .processIcons{
     width: 100%;
@@ -56,7 +56,6 @@
     flex-wrap: wrap;
     justify-content: center;
  }
- 
  
  .processIcon{
     text-align: center;
@@ -103,8 +102,6 @@
     display: flex;
     padding: 1rem 3.5rem;
     margin: .5rem 0 0 0;
- 
- 
  }
  
  
@@ -133,3 +130,24 @@
     justify-content: center;
  }
  
+ /* Main CSS */
+ .objectivesAndGoals, .processHeader, .businessChallenges, .productUsersAndChanges{
+   padding: 0 4rem;
+ }
+
+ /* productUsersAndChanges CSS  */
+ /* userThoughts Css */
+ .userThoughts{
+   display: flex
+}
+ .userNeeds{
+   width: 35%;
+ }
+
+ .userChallenges{
+   width: 65%;
+ }
+
+
+
+
