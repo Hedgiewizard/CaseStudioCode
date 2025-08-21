@@ -38,7 +38,9 @@
  }
 
  .boxWithText{
-    background-image: url("/Images/PlaceholderSketches/JustAGuy.jpg");
+    background-color: #4f8a98;
+    /* When you have a better image fix the image */
+    /* background-image: url("/Images/PlaceholderSketches/JustAGuy.jpg"); */
     width: 12rem;
     height: 12rem;
     padding: 4rem;
